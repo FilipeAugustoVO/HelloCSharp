@@ -1,6 +1,6 @@
 class HelloCSharp
 {
-	static void Main(string{} args)
+	static void Main()
 	{
 		System.Console.WriteLine("Hello C#!");
 	}

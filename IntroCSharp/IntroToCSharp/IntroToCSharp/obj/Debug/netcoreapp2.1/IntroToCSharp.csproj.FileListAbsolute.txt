@@ -1,0 +1,11 @@
+C:\Users\Convidado\Desktop\Projetos C Sharp\IntroCSharp\IntroToCSharp\IntroToCSharp\bin\Debug\netcoreapp2.1\IntroToCSharp.deps.json
+C:\Users\Convidado\Desktop\Projetos C Sharp\IntroCSharp\IntroToCSharp\IntroToCSharp\bin\Debug\netcoreapp2.1\IntroToCSharp.runtimeconfig.json
+C:\Users\Convidado\Desktop\Projetos C Sharp\IntroCSharp\IntroToCSharp\IntroToCSharp\bin\Debug\netcoreapp2.1\IntroToCSharp.runtimeconfig.dev.json
+C:\Users\Convidado\Desktop\Projetos C Sharp\IntroCSharp\IntroToCSharp\IntroToCSharp\bin\Debug\netcoreapp2.1\IntroToCSharp.dll
+C:\Users\Convidado\Desktop\Projetos C Sharp\IntroCSharp\IntroToCSharp\IntroToCSharp\bin\Debug\netcoreapp2.1\IntroToCSharp.pdb
+C:\Users\Convidado\Desktop\Projetos C Sharp\IntroCSharp\IntroToCSharp\IntroToCSharp\obj\Debug\netcoreapp2.1\IntroToCSharp.csprojAssemblyReference.cache
+C:\Users\Convidado\Desktop\Projetos C Sharp\IntroCSharp\IntroToCSharp\IntroToCSharp\obj\Debug\netcoreapp2.1\IntroToCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Convidado\Desktop\Projetos C Sharp\IntroCSharp\IntroToCSharp\IntroToCSharp\obj\Debug\netcoreapp2.1\IntroToCSharp.AssemblyInfoInputs.cache
+C:\Users\Convidado\Desktop\Projetos C Sharp\IntroCSharp\IntroToCSharp\IntroToCSharp\obj\Debug\netcoreapp2.1\IntroToCSharp.AssemblyInfo.cs
+C:\Users\Convidado\Desktop\Projetos C Sharp\IntroCSharp\IntroToCSharp\IntroToCSharp\obj\Debug\netcoreapp2.1\IntroToCSharp.dll
+C:\Users\Convidado\Desktop\Projetos C Sharp\IntroCSharp\IntroToCSharp\IntroToCSharp\obj\Debug\netcoreapp2.1\IntroToCSharp.pdb
